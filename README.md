@@ -41,3 +41,4 @@ Github Repository URL
 https://github.com/fmaldmed/Personal-Daily-Calendar
 
  Live Page URL
+ https://fmaldmed.github.io/Personal-Daily-Calendar/
