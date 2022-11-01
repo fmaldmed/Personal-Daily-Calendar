@@ -37,3 +37,7 @@ THEN the saved events persist
 Throughout this project i realized i need to dedicate more time to API modules. I struggled quite a bit with color coding timeblocks based on the current time, as well as getting the right code for a self updating time/date stamp.
 Will continue to review this module in order to improve the skills provided.
 
+Github Repository URL
+https://github.com/fmaldmed/Personal-Daily-Calendar
+
+ Live Page URL
